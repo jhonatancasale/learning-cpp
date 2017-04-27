@@ -30,3 +30,6 @@
 
 # Vim tmp files
 *~
+
+# Don't include Makefiles
+Makefile

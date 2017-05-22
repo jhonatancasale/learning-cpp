@@ -87,7 +87,9 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 
 ## Fontes de estudo
 ### Livros
-- ???
+- [Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
+- [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840)
+- [Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996)
 
 ### Cursos
 - [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a)

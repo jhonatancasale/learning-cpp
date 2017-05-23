@@ -96,7 +96,8 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 - [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b)
 
 ### Tutorials
-- ???
+- [C++ Programming](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+- [Top 10 Things I Wish I Had Known When Learning C++: Tips for Absolute Beginners](https://www.youtube.com/watch?v=Vy3DvF8nibA)
 
 
 **~Jhonatan**
